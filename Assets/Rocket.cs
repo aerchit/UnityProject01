@@ -30,6 +30,9 @@ public class Rocket : MonoBehaviour {
         else if (Input.GetKey(KeyCode.D)) //turn left
         {
             transform.Rotate(-Vector3.forward);
+
+
+            //test2
         }
     }
 }
