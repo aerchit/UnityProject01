@@ -32,7 +32,7 @@ public class Rocket : MonoBehaviour {
             transform.Rotate(-Vector3.forward);
 
 
-            //test2
+            //test3
         }
     }
 }
